@@ -21,4 +21,11 @@ This one is an svg file.
 
 Here's a bunch of analysis.
 
+## Map visualization
+
+<!-- Add script to the <head> of your page to load the embeddable map component -->
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
+<!-- Add custom element to <body> of your page -->
+ <arcgis-embedded-map style="height:600px;width:700px;" item-id="458d29ce19554d3eabdee1cb7eeb2114" theme="light" heading-enabled legend-enabled information-enabled share-enabled portal-url="https://brynmawrcollege.maps.arcgis.com" ></arcgis-embedded-map>
+
 ## Bibliography
