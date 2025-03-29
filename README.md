@@ -36,20 +36,26 @@ Thus, I use the online editor PineTools to merge a screenshot of the legends tog
 
 ![Total population makeup of the Investiture](image(1).jpg)
 
+[The CSV file used to generate the graph](TotalNumberChart.csv)
+
 There are actually 371 names listed in Chapter 99, instead of the 365 mentioned in-story. The majority of them are Jie/Shang-aligned, which fits the impression one gets from reading the novel, and the characters labelled as "10k Formation" casualties in Chapter 99 are just filler names added to match the 365 quota.
 
 I have also created an Excel sheet that lists every character on the Investiture with additional categories about 1) whether their deaths are described in-story, 2) if they are replacing an entirely different name on the Shu Edition Investiture, 3) whether their death is described in-story but their names do not appear in Chapter 99, and 4) whether their names only appear in Chapter 99 and nowhere else in the novel.
 
-However, RawGraph doesn't handle the formatting well, so I give up trying to create a visualization and choose to upload the CVS file into the Github repository as reference. Here is the link: [
+However, RawGraph doesn't handle the formatting well, so I give up trying to create a visualization and choose to upload the CVS file into the Github repository as reference. Here is the link: [The Full List](TheList.csv)
 
-## Inagural Addresses
+## The Investiture, by Celestial Bureaus
 
-### Most distinctive words in US presidents' inagural addresses, 1789-2017
+### Population makeup of each Celestial Bureau, divided by factions
 
-This one is an svg file.
+Chapter 99 itself divides the names by the Celestial Bureaus they will be working for after deification. Which poses a problem, because some of the "Bureau Titles" only consists of a single character and their job position.
+
+As such, I decide to put every "bureau" with less than 3 people in it into the Misc. category. There are also a few characters who are described in-story as "guardians of the Western Sect" while Jiang Ziya, the person in charge of the Investiture Project, is reading out their new job titles, so I'm classifying these characters as "Western Sect Affiliated".
+
+For your knowledge, Western Sect is basically the novel's Buddhism stand-in in a Daoist robe.
 
 ![Population makeup of each Celestial Bureau by faction](listmulti.svg)
 
-Here's a bunch of analysis.
+
 
 ## Bibliography
