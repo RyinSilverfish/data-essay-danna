@@ -56,6 +56,8 @@ For your knowledge, Western Sect is basically the novel's Buddhism stand-in in a
 
 ![Population makeup of each Celestial Bureau by faction](listmulti.svg)
 
+The 10k Formation chart looks like that because the 36 Heavenly Stars and 72 Earthly Stars is an entire Celestial Bureau of filler characters whose job positions may have been copied from the 108 Stars of <i>Water Margin</i>, another classic vernacular novel that predates this novel.
 
+The Jie-aligned characters are rather evenly spread out through the Celestial Departments, while deified human characters (Shang/Zhou-aligned) make up the majority of Stellar Officials 
 
 ## Bibliography
