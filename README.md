@@ -56,6 +56,8 @@ For your knowledge, Western Sect is basically the novel's Buddhism stand-in in a
 
 ![Population makeup of each Celestial Bureau by faction](listmulti.svg)
 
+[The Original CSV file](TheListTotal.csv)
+
 The 10k Formation chart looks like that because the 36 Heavenly Stars and 72 Earthly Stars is an entire Celestial Bureau of filler characters whose job positions may have been copied from the 108 Stars of <i>Water Margin</i>, another classic vernacular novel that predates this novel.
 
 The Jie-aligned characters are rather evenly spread out through the Celestial Bureaus, though many bureaus consist entirely of Jie-aligned characters, while deified human characters (Shang/Zhou-aligned) make up the majority of Stellar Officials and minor categories. There is also a near-equal number of Shang and Zhou-aligned characters in the Dipper Mansion Leadership.
@@ -66,5 +68,7 @@ My programming illiteracy makes it very hard to figure out RawGraphs, and the Fu
 
 ## Bibliography
 《封神演义》, Chinese Text Project. https://ctext.org/fengshen-yanyi/zhs
+
 碧海风云，“封神榜上365位正神名单_作者怕是不识数，明明封了371位！”, WeChat, October 24, 2019, https://web.archive.org/web/20191030055244/https://mp.weixin.qq.com/s/oNXP7sp5bDf-JJbkuIhsKA
+
 Wikipedia contributors, "List of gods in the Investiture of the Gods," <i>Wikipedia, The Free Encyclopedia</i>, https://en.wikipedia.org/w/index.php?title=List_of_gods_in_the_Investiture_of_the_Gods&oldid=1275812220 (accessed March 29, 2025).
