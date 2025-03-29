@@ -17,7 +17,7 @@ My visualization shows...
 
 This one is an svg file.
 
-![inagural addresses common words](heatmap.svg)
+![inagural addresses common words](listmulti.svg)
 
 Here's a bunch of analysis.
 
